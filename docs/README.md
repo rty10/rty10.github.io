@@ -1,11 +1,3 @@
-# Website for Robert T Young, PhD
-
-This is the coding experience website for Robert Young. 
-
-Welcome. 
-
-Here you will see the evolution of my data journey.
-
 ## Who am I?
 
 ### Education
