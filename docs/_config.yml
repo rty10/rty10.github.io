@@ -1,3 +1,14 @@
-theme: jekyll-theme-slate
-title: Robert T Young, PhD
-description: Professional site for Robert Young.
+name: Robert T. Young, PhD
+
+description: This is the professional website and portfolio page for Robert T. Young, PhD.
+
+theme: jekyll-theme-cayman
+
+author: Robert T Young
+
+footer-links:
+  email: robb.young.2011@gmail.com
+  linkedin: https://www.linkedin.com/in/rt-young
+  
+
+avatar: ../external_docs/photos/RY_CareerFair2025_hs01_v02.jpg
