@@ -30,11 +30,16 @@ Work experience
   * Duties included: Manuscript preparation, Molecular dynamics simulations of circular DNA
   * Supervisor: Professor Sebastian Sensale-Rodriguez
 
+* 2023: Assistant Clinical Professor
+  * University of Maryland- College Park
+  * Research Stream Leader, *Genome Computing*
+  * Duties included: Undergraduate research mentor, management of computational lab (Linux machines), manager of upper-level undergraduate research mentors
+
 * Fall 2016 - Summer 2022: Graduate Research Assistant
   * Rutgers University- New Brunswick
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: Professor Wilma K. Olson
-  
+
 Skills
 ======
 * Skill 1
