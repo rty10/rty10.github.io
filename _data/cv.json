@@ -1,62 +1,71 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Robert T Young",
+    "email": "robb.young.2011@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "21046",
+      "city": "Columbia, MD",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Robert T Young",
+        "url": "https://scholar.google.com/citations?user=KxyzqtYAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Robert Young",
+        "url": "http://orcid.org/0000-0001-5471-3792"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "rty10",
+        "url": "https://github.com/rty10"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "institution": "Rutgers University- New Brunswick",
+      "area": "Ph.D Chemistry",
+      "studyType": "Computational Biophysical",
+      "startDate": "2016",
+      "endDate": "2022",
+      "gpa": 3.85,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "Rutgers University- New Brunswick",
+      "area": "M.Sc. Physics",
+      "studyType": "Biophysics",
+      "startDate": "2013",
+      "endDate": "2022",
+      "gpa": 3.82,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Rutgers University- New Brunswick",
+      "area": "M.Sc. Computational Biology & Molecular Biophysics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2011",
+      "endDate": "2013",
+      "gpa": 3.75,
+      "courses": []
+    },
+    {
+      "institution": "Appalachian State University",
+      "area": "B.Sc. Applied Physics",
+      "studyType": "",
+      "startDate": "2002, 2007",
+      "endDate": "2011",
+      "gpa": 3.55,
       "courses": []
     }
   ],
