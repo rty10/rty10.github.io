@@ -1,7 +1,7 @@
 ---
 title: "Recitation Instructor"
 collection: teaching
-type: "Undergraduate course discussion section"
+type: "recitation/discussion"
 permalink: /teaching/2013-rutgers.md
 venue: "Rutgers University"
 date:
