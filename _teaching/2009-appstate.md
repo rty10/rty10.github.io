@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course discussion section"
 permalink: /teaching/2009-appstate.md
 venue: "Appalachian State University, Department of Chemistry"
-date: 2009 - 2011
+date:
 location: "Boone, NC, USA"
 ---
 

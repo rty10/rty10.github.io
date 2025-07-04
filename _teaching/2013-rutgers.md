@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course discussion section"
 permalink: /teaching/2013-rutgers.md
 venue: "Rutgers University"
-date: 2013 - 2022
+date:
 location: "New Brunswick, NJ, USA"
 ---
 
