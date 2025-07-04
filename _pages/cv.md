@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, Rutgers University, 2022
+  * Focus: Biophysical, Computational
+* M.Sc. in Physics, Rutgers University, 2022
+* M.Sc. in Computational Biology & Molecular Biophysics, Rutgers University, 2013
+* B.Sc. in Applied Physics, Appalachian State University, 2011
+  * Minors: Mathematics, Biology, Chemistry
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Organizer
+  * NextGen Conversations: Albany at Rustin
+  * Duties includes: Social media manager, abstract organization
+  * Supervisor: Thomas Bishop
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Postdoctoral Research Assistant
+  * Cleveland State University
+  * Duties included: Manuscript preparation, Molecular dynamics simulations of circular DNA
+  * Supervisor: Professor Sebastian Sensale-Rodriguez
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Fall 2016 - Summer 2022: Graduate Research Assistant
+  * Rutgers University- New Brunswick
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Wilma K. Olson
   
 Skills
 ======
@@ -59,6 +62,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
