@@ -9,6 +9,6 @@ venue: 'Life'
 slidesurl: 
 paperurl: 'https://www.mdpi.com/2075-1729/12/5/759'
 bibtexurl: 
-citation: Young, R., et al. (2022). &quot;Revisiting DNA Sequence-Dependent Deformability in High-Resolution Structures: Effects of Flanking Base Pairs on Dinucleotide Morphology and Global Chain Configuration.&quot; <i>Life 1</i>. 12(5).'
+citation: Young, R., et al. (2022). &quot;Revisiting DNA Sequence-Dependent Deformability in High-Resolution Structures: Effects of Flanking Base Pairs on Dinucleotide Morphology and Global Chain Configuration.&quot; <i>Life 1</i>. 12(5).
 ---
 
