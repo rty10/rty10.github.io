@@ -9,26 +9,7 @@ redirect_from:
 
 My professional journey started at Appalachian State University, shifted to Rutgers University, and included work at University of Maryland- College Park and Cleveland State University.
 
-Research
-------
-...
-
-
-Publications
-------
-...
-
-
-Talks
-------
-
-
-Teaching
-------
-
-
-Portfolio
-------
+My interests lie in mathematics, biological physics, and college-level education.
 
 
 For more info
