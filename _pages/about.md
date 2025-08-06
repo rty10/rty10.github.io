@@ -11,6 +11,14 @@ Welcome.
 This website is a collection of my professional work, including research work, teaching, publications, and presentations.
 
 
+Current Work
+------
+In July 2025, I was given a Researcher contract with Dr. Thomas Bishop at Louisiana Tech University to study the dynamics of confined genomic material as a part of a multi-lab collaboration on 4D whole-cell modeling.
+
+In addition, I am currently working under contracts with both the Biophysical Reviews journal as a social media manager and the organizing committee of The Next-Generation Conversations on Biomolecular Structure and Dynamics (formerly the Albany Conversations) as an administrative organizer.
+
+
+
 About Me
 ------
 My interests lie in mathematics, biological physics, and college-level education. I love puzzles and codes and hope to one day find new information that connects DNA, RNA, and amino acid residue sequences to physical confirmational states. 
