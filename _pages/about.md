@@ -13,9 +13,8 @@ This website is a collection of my professional work, including research work, t
 
 Current Work
 ------
-In July 2025, I was given a Researcher contract with Dr. Thomas Bishop at Louisiana Tech University to study the dynamics of confined genomic material as a part of a multi-lab collaboration on 4D whole-cell modeling.
-
-In addition, I am currently working under contracts with both the Biophysical Reviews journal as a social media manager and the organizing committee of The Next-Generation Conversations on Biomolecular Structure and Dynamics (formerly the Albany Conversations) as an administrative organizer.
+I am currently a Postdoctoral Research Assistant with the Bishop Lab at Louisiana Tech University where I am studying 4-D modeling of the bacterial chromosome 
+In addition, I am on the organizing committee for the 2nd Next-Generation Conversations on Biomolecular Structure and Dynamics (formerly the Albany Conversations) to be held in June 2026 at Ruston, LA.
 
 
 
@@ -23,15 +22,15 @@ About Me
 ------
 My interests lie in mathematics, biological physics, and college-level education. I love puzzles and codes and hope to one day find new information that connects DNA, RNA, and amino acid residue sequences to physical confirmational states. 
 
-
 My professional journey started at Appalachian State University in Boone, NC, where I fell in love with physics and chemistry. 
 While others were interested in astronomy or engineering, I was interested in understanding the molecular world.
 I went to Rutgers University-New Brunswick for my graduate studies, first working biophysical characterization of collagen mutations.
 Not satisified with a purely experimental role, I found a home in the Olson Biopolymers Lab working on computational biophysics of DNA.
 
-
 After my dissertation, I took an Assistant Clinical Professor position at University of Maryland- College Park in 2023, teaching first-year undergraduates the basics of research and introduced some strucutral bioinformatics research.
 In 2024 I took a post-doctoral research position under Dr. Sebastian Sensale-Rodriquez in the Department of Physics and Astronomy at Cleveland State University studying DNA origami and circular DNA fragments.
+
+In my free time, I am a competitive curler and am learning American sign language.
 
 
 For more info
