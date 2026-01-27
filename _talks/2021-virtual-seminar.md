@@ -8,6 +8,6 @@ date: 2021-03-01
 location: "Boone, NC, USA"
 ---
 
-Physics and Astronomy colloquium talk at Appalachian State University by Robert Young from Rutgers University
+Description on YouTube page "Physics and Astronomy colloquium talk at Appalachian State University by Robert Young from Rutgers University"
 
 Link to the seminar talk here:[YouTube](https://www.youtube.com/watch?v=Dk2ggqgTzEI)
