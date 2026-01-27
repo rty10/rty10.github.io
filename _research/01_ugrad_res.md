@@ -1,7 +1,6 @@
 ---
 title: "Undergraduate Research at Appalachian State University"
 collection: research
-permalink: /research/01_ugrad_res.md
 venue: "Appalachian State University, Department of Physics & Astronomy"
 location: "Boone, NC, USA"
 ---
