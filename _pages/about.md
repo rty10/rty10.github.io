@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome.
-
-This website is a collection of my professional work, including research work, teaching, publications, and presentations. Navigation of this website can be found at the top while more of my professional and social media presence can be found below my pictute
+This website is a collection of the professional work of Robert T Young, including research work, teaching, publications, and presentations. Navigation of this website can be found at the top.
 
 
 Current Work
 ------
-I am currently a Postdoctoral Research Scientist with the T.C. Bishop Lab of the Chemistry & Physics Department at Louisiana Tech University where I am studying whole-cell chromosomal modeling and ligand reaction mechanics. I am a remote worker with my base of operation in Maryland.
+I am currently a Postdoctoral Research Scientist with the T.C. Bishop Lab of the Chemistry & Physics Department at Louisiana Tech University where I am studying whole-cell chromosomal modeling and ligand reaction mechanics in collaboration with Radiance Technologies. I am a remote worker with my base of operation in Maryland.
 
-I am also a member of the organizing committee for the 2nd Next-Generation Conversations on Biomolecular Structure and Dynamics (formerly the Albany Conversations) to be held in June 2026 at Ruston, LA.
+I am also a member of the organizing committee for the Next Generation Conversations on Biomolecular Structure and Dynamics (formerly the Albany Conversations) where the second iteraction was held in June 2026 at Ruston, LA.
 
 
 
